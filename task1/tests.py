@@ -1,5 +1,5 @@
 import pytest
-from task1.solutions import sum_two, sum_three
+from solution import sum_two, sum_three
 
 
 def test_sum_two_correct_types():
